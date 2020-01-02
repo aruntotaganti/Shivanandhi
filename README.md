@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -49,12 +49,6 @@
 </head>
 
 <body>
-
-
-<div id="London" class="tabcontent">
-  <h1>London</h1>
-</div>
-
 <div class="container">
   <div class="row">
   <div class="col-md-53" style="background-color:lavenderblush;"><h1><strong>Shivanandhi NGO group,Gajendragad</strong><h1></div>
@@ -99,6 +93,8 @@
   </tr>
   
   </table>
+</div>
+</div>
 </div>
 </div>
 <script>
