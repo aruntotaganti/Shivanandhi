@@ -1,37 +1,122 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/aruntotaganti/arun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<title>Shivanandhi(arun Totaganti web site designer) | Volunteering Organisation,</title>
 
-### Markdown
+	
+			
+<meta name="keywords" content="Shivanandhi, NGO, Youth Organisation,gajendragad">
+						<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+ 
+.mySlides {display:none;}
+.blue-square {
+  top: 1000px;
+  width: 1000px;
+  height: 1000px;
+  
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
 
-```markdown
-Syntax highlighted code block
+.tablink:hover {
+  background-color: #777;
+}
 
-# Header 1
-## Header 2
-### Header 3
+/* Style the tab content */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
 
-- Bulleted
-- List
+</style>
+</head>
 
-1. Numbered
-2. List
+<body>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<div id="London" class="tabcontent">
+  <h1>London</h1>
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div class="container">
+  <div class="row">
+  <div class="col-md-53" style="background-color:lavenderblush;"><h1><strong>Shivanandhi NGO group,Gajendragad</strong><h1></div>
+  <div class="col-md-53" style="background-color:lavender;">
+<div class="w3-center" >
+  <img class="mySlides" src="images/a.jpeg" style="width:80%">
+  <img class="mySlides" src="images/b.jpeg" style="width:80%">
+  <img class="mySlides" src="images/c.jpeg" style="width:80%">
+  <div class="col-md-53" style="background-color:lavenderblush;"></div>
+  <h3 align="center"><strong>WHO ARE WE?</strong></h3>
+  <p>Shivanandi is one of India largest independent youth volunteer non-profit organisations.</p>
 
-### Jekyll Themes
+<p>Shivanandi, as a platform,In India for causes like education, environment, animals and community welfare.</p>
+  <table class="w3-center" cellspacing=30>
+  <tr>
+  <td><h3 color="blue">Group members</h3></td>
+  <td><h3 style=color:"blue">contact details</h3></td>
+  </tr>
+  <tr>
+  <td>Arunkumar Totaganti</td>
+  <td>8792771726</td>
+  </tr>
+  <tr>
+  <td>Bharath Noolvi</td>
+  <td>8892720565</td>
+  </tr>
+  <tr>
+  <td>Kantu</td>
+  <td>8970188045</td>
+  </tr>
+  <tr>
+  <td> kiran</td>
+  <td>9964113780</td>
+  </tr>
+  <tr>
+  <td>Akshay Patted</td>
+  <td>9480599375</td>
+  </tr>
+  <tr>
+  <td> Shashi</td>
+  <td>9880132016</td>
+  </tr>
+  
+  </table>
+</div>
+</div>
+<script>
+var myIndex = 0;
+carousel();
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aruntotaganti/arun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
