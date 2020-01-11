@@ -1,24 +1,41 @@
-
+<!DOCTYPE html>
 <html>
 
+
+
 <head>
-
+<base href="images/" target="_blank">
 <title>Shivanandhi(arun Totaganti web site designer) | Volunteering Organisation,</title>
-
-	
-			
 <meta name="keywords" content="Shivanandhi, NGO, Youth Organisation,gajendragad">
 						<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="main.css">
+
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 <style>
+img{
+	margin : auto;
+}
+p{
+	color:red;
+}
  
-.mySlides {display:none;}
+.mySlides {
+	display:none;
+   margin-left:100px;
+   width:80%;
+   }
 .blue-square {
   top: 1000px;
-  width: 1000px;
+  width: 80%;
   height: 1000px;
   
+}
+h1{
+	text-align:center;
+    border: 1px solid red;
 }
 
 .tablink {
@@ -45,27 +62,45 @@
   text-align: center;
 }
 
+hr{
+
+border-color:white;
+border-style:inset;
+border-top:10px dotted black;
+height:100px;
+width: 30%;
+}
+
+
 </style>
 </head>
 
-<body>
-<div class="container">
-  <div class="row">
-  <div class="col-md-53" style="background-color:lavenderblush;"><h1><strong>Shivanandhi NGO group,Gajendragad</strong><h1></div>
-  <div class="col-md-53" style="background-color:lavender;">
-<div class="w3-center" >
-  <img class="mySlides" src="images/a.jpeg" style="width:80%">
-  <img class="mySlides" src="images/b.jpeg" style="width:80%">
-  <img class="mySlides" src="images/c.jpeg" style="width:80%">
-  <div class="col-md-53" style="background-color:lavenderblush;"></div>
-  <h3 align="center"><strong>WHO ARE WE?</strong></h3>
-  <p>Shivanandi is one of India largest independent youth volunteer non-profit organisations.</p>
+<body style="backgroud-color=#e1ccec;">
 
-<p>Shivanandi, as a platform,In India for causes like education, environment, animals and community welfare.</p>
-  <table class="w3-center" cellspacing=30>
+  <div class="row">
+      <div class="col-md-53" style="background-color:#2c786c;">
+      <h1 align="center"><strong>Shivanandhi NGO group,Gajendragad</strong></h1>
+      </div>
+    <div class="col-md-53" style="background-color:#f0e3ff;">
+      <img class="mySlides" src="a.jpeg" >
+      <img class="mySlides" src="b.jpeg"  >
+      <img class="mySlides" src="c.jpeg" usemap="#mylink">
+      <map name="mylink">
+      <area shape="rect" coords="184,6,253,27"
+          href="https://mozilla.org"
+          target="_blank" alt="Mozilla" />
+          </map>
+     
+    </div><br>
+  <div class="col-md-53" style="background-color:#f0e3ff";>
+  <h3 align="center"><strong>WHO ARE WE?</strong></h3>
+  <p align="center">Shivanandi is one of India largest independent youth volunteer non-profit organisations.</p>
+<p align="center"><cite>Shivanandi,</cite> as a platform,In India for causes like education, environment, animals and community welfare.</p>
+
+  <table align="center">
   <tr>
-  <td><h3 color="blue">Group members</h3></td>
-  <td><h3 style=color:"blue">contact details</h3></td>
+  <td><h3 style="color:blue">Group members</h3></td>
+  <td><h3 style="color:blue">contact details</h3></td>
   </tr>
   <tr>
   <td>Arunkumar Totaganti</td>
@@ -93,26 +128,29 @@
   </tr>
   
   </table>
-</div>
-</div>
-</div>
+
+  </div>
 </div>
 <script>
 var myIndex = 0;
 carousel();
-
 function carousel() {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 2000); // Change image every 2 seconds
-}
-</script>
+	  var i;
+	  var x = document.getElementsByClassName("mySlides");
+	  for (i = 0; i < x.length; i++) {
+	    x[i].style.display = "none";  
+	  }
+	  myIndex++;
+	  if (myIndex > x.length) {myIndex = 1}    
+	  x[myIndex-1].style.display = "block";  
+	  setTimeout(carousel, 2000); // Change image every 2 seconds
+	}
+	</script>
+  
+
+
+
 
 </body>
+
 </html>
