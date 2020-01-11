@@ -16,7 +16,7 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 <style>
 img{
-	margin : auto;
+	margin-left : 25%;
 }
 p{
 	color:red;
@@ -85,13 +85,7 @@ width: 30%;
       <img class="mySlides" src="a.jpeg" >
       <img class="mySlides" src="b.jpeg"  >
       <img class="mySlides" src="c.jpeg" usemap="#mylink">
-      <map name="mylink">
-      <area shape="rect" coords="184,6,253,27"
-          href="https://mozilla.org"
-          target="_blank" alt="Mozilla" />
-          </map>
-     
-    </div><br>
+ </div><br>
   <div class="col-md-53" style="background-color:#f0e3ff";>
   <h3 align="center"><strong>WHO ARE WE?</strong></h3>
   <p align="center">Shivanandi is one of India largest independent youth volunteer non-profit organisations.</p>
