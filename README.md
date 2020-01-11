@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 
@@ -130,7 +130,7 @@ width: 30%;
   </table>
 
   </div>
-</div>
+
 <script>
 var myIndex = 0;
 carousel();
