@@ -75,7 +75,7 @@ width: 30%;
 </style>
 </head>
 
-<body style="backgroud-color=#e1ccec;">
+<body style="background-color:#f0e3ff;">
 
   <div class="row">
       <div class="col-md-53" style="background-color:#2c786c;">
