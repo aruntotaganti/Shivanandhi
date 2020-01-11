@@ -15,9 +15,7 @@
 
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 <style>
-img{
-	margin-left : 25%;
-}
+
 p{
 	color:red;
 }
