@@ -86,7 +86,7 @@ width: 30%;
       <img class="mySlides" src="b.jpeg"  >
       <img class="mySlides" src="c.jpeg" usemap="#mylink">
  </div><br>
-  <div class="col-md-53" style="background-color:#f0e3ff";>
+ 
   <h3 align="center"><strong>WHO ARE WE?</strong></h3>
   <p align="center">Shivanandi is one of India largest independent youth volunteer non-profit organisations.</p>
 <p align="center"><cite>Shivanandi,</cite> as a platform,In India for causes like education, environment, animals and community welfare.</p>
@@ -124,7 +124,7 @@ width: 30%;
   </table>
 
   </div>
-</div>
+
 <script>
 var myIndex = 0;
 carousel();
