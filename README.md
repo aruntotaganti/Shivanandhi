@@ -95,6 +95,10 @@ width: 30%;
   <td>Arunkumar Totaganti</td>
   <td>8792771726</td>
   </tr>
+	<tr>
+  <td>Akshay Patted</td>
+  <td>9480599375</td>
+  </tr>
   <tr>
   <td>Bharath Noolvi</td>
   <td>8892720565</td>
@@ -107,10 +111,7 @@ width: 30%;
   <td> kiran</td>
   <td>9964113780</td>
   </tr>
-  <tr>
-  <td>Akshay Patted</td>
-  <td>9480599375</td>
-  </tr>
+  
   <tr>
   <td> Shashi</td>
   <td>9880132016</td>
