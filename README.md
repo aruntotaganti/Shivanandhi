@@ -20,11 +20,11 @@ p{
 .mySlides {
 	display:none;
    margin-left:100px;
-   max-width:80%;
+   width:80%;
    }
 .blue-square {
   top: 1000px;
-  max-width: 80%;
+  width: 80%;
   height: 1000px;
   
 }
@@ -42,7 +42,7 @@ h1{
   cursor: pointer;
   padding: 14px 16px;
   font-size: 17px;
-  max-width: 25%;
+  width: 25%;
 }
 
 .tablink:hover {
