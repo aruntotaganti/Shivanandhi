@@ -77,9 +77,9 @@ width: 30%;
       <h1 align="center"><strong>Shivanandhi NGO group,Gajendragad</strong></h1>
       </div>
     <div class="col-md-53" style="background-color:#f0e3ff;">
-      <img align="center" class="mySlides" src="a.jpeg" >
-      <img align="center" class="mySlides" src="b.jpeg"  >
-      <img align="center" class="mySlides" src="c.jpeg" >
+      <img  class="mySlides" src="a.jpeg" >
+      <img  class="mySlides" src="b.jpeg"  >
+      <img  class="mySlides" src="c.jpeg" >
  </div><br>
  
   <h3 align="center"><strong>WHO ARE WE?</strong></h3>
