@@ -15,13 +15,15 @@
     background-color: lightblue;
   }
 }
+	table{
+	width:25px
 p{
 	color:red;
 }
  
 .mySlides {
 	display:none;
-   margin-left:100px;
+   
    width:80%;
    }
 .blue-square {
