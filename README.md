@@ -74,7 +74,7 @@ width: 30%;
 
   <div class="row">
       <div class="col-md-53" style="background-color:#2c786c;">
-      <h1 align="center"><strong>Shivanandhi NGO group,Gajendragad</strong></h1>
+      <h3 align="center"><strong>Shivanandhi NGO group,Gajendragad</strong></h1>
       </div>
     <div class="col-md-53" style="background-color:#f0e3ff;">
       <img  class="mySlides" src="a.jpeg" >
