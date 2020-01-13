@@ -10,9 +10,13 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 <style>
-@media only screen and (max-width: 750px) {
-  table {
-    width:25px;
+
+@media only screen and (orientation: portrait) {
+  body {
+    background-color: lightblue;
+  }
+  table{
+  width:25px;
   }
 }
 	
@@ -68,7 +72,9 @@ border-top:10px dotted black;
 height:100px;
 width: 30%;
 }
-
+.arun{
+font-size: large;
+}
 
 </style>
 </head>
@@ -77,7 +83,7 @@ width: 30%;
 
   <div class="row">
       <div class="col-md-53" style="background-color:#2c786c;">
-      <h3 align="center"><strong>Shivanandhi NGO group,Gajendragad</strong></h3>
+      <p class="arun"><strong>Shivanandhi NGO group,Gajendragad</strong></p>
       </div>
     <div class="col-md-53" style="background-color:#f0e3ff;">
       <img  class="mySlides" src="a.jpeg" >
