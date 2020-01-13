@@ -21,13 +21,13 @@
 }
 	
 p{
-	color:red;
+	color:black;
 }
  
 .mySlides {
 	display:none;
    
-   width:80%;
+   width:100%;
    }
 .blue-square {
   top: 1000px;
