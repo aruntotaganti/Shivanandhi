@@ -7,12 +7,14 @@
 						<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 <meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
 <link rel="stylesheet" type="text/css" href="main.css">
-
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 <style>
-
+@media only screen and (orientation: portrait) {
+  body {
+    background-color: lightblue;
+  }
+}
 p{
 	color:red;
 }
