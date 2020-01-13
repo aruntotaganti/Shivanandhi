@@ -1,8 +1,5 @@
 
 <html>
-
-
-
 <head>
 <base href="images/" target="_blank">
 <title>Shivanandhi(arun Totaganti web site designer) | Volunteering Organisation,</title>
@@ -23,11 +20,11 @@ p{
 .mySlides {
 	display:none;
    margin-left:100px;
-   width:80%;
+   max-width:80%;
    }
 .blue-square {
   top: 1000px;
-  width: 80%;
+  max-width: 80%;
   height: 1000px;
   
 }
@@ -45,7 +42,7 @@ h1{
   cursor: pointer;
   padding: 14px 16px;
   font-size: 17px;
-  width: 25%;
+  max-width: 25%;
 }
 
 .tablink:hover {
