@@ -10,13 +10,12 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 <style>
-@media only screen and (orientation: portrait) {
-  body {
-    background-color: lightblue;
+@media only screen and (max-width: 750px) {
+  table {
+    width:25px;
   }
 }
-	table{
-	width:25px
+	
 p{
 	color:red;
 }
