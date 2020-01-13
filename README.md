@@ -115,6 +115,10 @@ width: 30%;
   <td> Shashi</td>
   <td>9880132016</td>
   </tr>
+	<tr>
+  <td> Faruk</td>
+  <td>7846947443</td>
+  </tr>
   
   </table>
 
