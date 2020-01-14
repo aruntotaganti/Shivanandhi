@@ -128,7 +128,7 @@ font-size: large;
   <a href="#">About us </a>
   <a href="#">Services</a>
   <a href="#">Achivements</a>
-  <a href="#">Contact</a>
+  <a href="#">adress</a>
 </div>
 
   <div class="row">
