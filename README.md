@@ -114,6 +114,11 @@ font-size: large;
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+@media screen and (max-width: 800px) {
+  table{
+  width:20%;
+  }
+}
 </style>
 </head>
 
