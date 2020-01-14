@@ -148,8 +148,8 @@ font-size: large;
 
   <table align="center">
   <tr>
-  <td><h3 style="color:blue">Group members</h3></td>
-  <td><h3 style="color:blue">contact details</h3></td>
+  <td><h3 style="background-color:#3282b8">Group members</h3></td>
+  <td><h3 style="background-color:#3282b8">contact details</h3></td>
   </tr>
   <tr>
   <td>Arunkumar Totaganti</td>
