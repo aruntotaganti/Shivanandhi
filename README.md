@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<base href="images/" target="_blank">
+
 <title>Shivanandhi(arun Totaganti web site designer) | Volunteering Organisation,</title>
 <meta name="keywords" content="Shivanandhi, NGO, Youth Organisation,gajendragad">
 						<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
