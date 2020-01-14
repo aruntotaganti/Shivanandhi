@@ -116,7 +116,7 @@ font-size: large;
 }
 @media screen and (max-width: 800px) {
   table{
-  width:20%;
+  width:10%;
   }
 }
 </style>
@@ -148,8 +148,8 @@ font-size: large;
 
   <table align="center">
   <tr>
-  <td><h3 style="background-color:#3282b8">Group members</h3></td>
-  <td><h3 style="background-color:#3282b8">contact details</h3></td>
+  <td><h3 >Group members</h3></td>
+  <td><h3 >contact details</h3></td>
   </tr>
   <tr>
   <td>Arunkumar Totaganti</td>
