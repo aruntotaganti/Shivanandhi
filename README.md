@@ -130,7 +130,7 @@ font-size: large;
   <a href="#">Achivements</a>
   <a href="#">adress</a>
 </div>
-
+<div class="container-fluid">
   <div class="row">
       <div class="col-md-53" style="background-color:#2c786c;">
 	<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open </span>
@@ -184,7 +184,7 @@ font-size: large;
   </table>
 
   </div>
-
+</div>
 <script>
 var myIndex = 0;
 carousel();
