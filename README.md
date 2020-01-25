@@ -9,6 +9,7 @@
 <link rel="stylesheet" type="text/css" href="main.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 <style>
 
 @media only screen and (orientation: portrait) {
